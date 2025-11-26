@@ -13,4 +13,6 @@ body{
     color:rgba(10,10,250,0.7);
     font-family: cursive;
     text-decoration: none;
+    list-style: none;
+    
 }
