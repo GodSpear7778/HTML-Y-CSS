@@ -12,6 +12,5 @@ body{
 .div-2{
     color:rgba(10,10,250,0.7);
     font-family: cursive;
-   display: flex;
-   display: list-item;
+    text-decoration: none;
 }
